@@ -1,5 +1,5 @@
 <h1>Hi, I'm Ervanur!
 
-<h2>👨‍💻 IT Support Specialist Projects:</h2>
+<h2>✨ IT Support Specialist Projects:</h2>
 
-- <b>Troubleshooting Mobile Issues (AlgoExpert)</b>
+- <b>Troubleshooting Mobile Issues
