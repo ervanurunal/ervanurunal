@@ -13,6 +13,9 @@ IT Support Specialist Projects:</h2>
 - <b>Windows Folder Creation Lab </b>
   - [Creating a Folder with Windows – Virtual Hardware Lab](https://github.com/ervanurunal/Windows-Folder-Creation-Lab.git)
 
+- <b>Linux VM & Command-Line Basics Lab </b>
+  - [Creating a Folder with Linux – Virtual Hardware Lab](https://github.com/ervanurunal/Linux-VM-Command-Line-Basics-Lab.git)
+
  
 ---
 
