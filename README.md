@@ -15,6 +15,9 @@ IT Support Specialist Projects:</h2>
 
 - <b>Linux VM & Command-Line Basics Lab </b>
   - [Creating a Folder with Linux – Virtual Hardware Lab](https://github.com/ervanurunal/Linux-VM-Command-Line-Basics-Lab.git)
+ 
+- <b>Windows Software Maintenance Lab </b>
+  - [Installing, Updating, and Removing Software in Windows](https://github.com/ervanurunal/Windows-Software-Maintenance-Lab.git)
 
  
 ---
