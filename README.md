@@ -2,28 +2,35 @@
   
 ---
 
-<h2>IT Support Specialist Projects:</h2>
+<h2>IT Support Specialist Training:</h2>
+
+### Technical Support Fundamentals Projects:
 
 - <b>Mobile Device Troubleshooting </b>
   - [Troubleshooting Mobile Issues Lab](https://github.com/ervanurunal/MobileDeviceTroubleshootingLab.git)
 
 - <b>Assemble a Computer </b>
   - [Computer Assembly – Virtual Hardware Lab](https://github.com/ervanurunal/Assemble-a-Computer.git)
- 
+   
 - <b>Windows Folder Creation Lab </b>
   - [Creating a Folder with Windows – Virtual Hardware Lab](https://github.com/ervanurunal/Windows-Folder-Creation-Lab.git)
-
+  
 - <b>Linux VM & Command-Line Basics Lab </b>
   - [Creating a Folder with Linux – Virtual Hardware Lab](https://github.com/ervanurunal/Linux-VM-Command-Line-Basics-Lab.git)
- 
+   
 - <b>Windows Software Maintenance Lab </b>
   - [Installing, Updating, and Removing Software in Windows](https://github.com/ervanurunal/Windows-Software-Maintenance-Lab.git)
-
- - <b>Linux Software Maintenance Lab </b>
-   - [Installing, Updating, and Removing Software in Linux](https://github.com/ervanurunal/Linux-Software-Maintenance-Lab.git)
+  
+- <b>Linux Software Maintenance Lab </b>
+  - [Installing, Updating, and Removing Software in Linux](https://github.com/ervanurunal/Linux-Software-Maintenance-Lab.git)
 
 ---
+<h2>Google IT Support Professional Certificate:</h2>
 
+- <b>[Technical Support Fundamentals](https://coursera.org/share/cce852a3202478347ea40df4f15794b6) </b>
+
+
+---
 
 <h2>Google Cybersecurity Professional Certificate:</h2>
 
