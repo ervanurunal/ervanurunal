@@ -2,7 +2,15 @@
   
 ---
 
-<h2>IT Support Specialist Training:</h2>
+## Certificates:
+- <b>[Google Cybersecurity Professional Certificate](https://coursera.org/share/136e9a44097143eebfcdcb9dbe3fccd8) </b>
+
+- <b>[Google IT Support Professional Certificate]() </b>
+
+
+---
+
+<h2>IT Support Specialist Projects:</h2>
 
 ### Technical Support Fundamentals Projects:
 
@@ -25,6 +33,7 @@
   - [Installing, Updating, and Removing Software in Linux](https://github.com/ervanurunal/Linux-Software-Maintenance-Lab.git)
 
 ---
+
 <h2>Google IT Support Professional Certificate:</h2>
 
 - <b>[Technical Support Fundamentals](https://coursera.org/share/cce852a3202478347ea40df4f15794b6) </b>
