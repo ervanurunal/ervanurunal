@@ -20,7 +20,7 @@
   - [Installing, Updating, and Removing Software in Windows](https://github.com/ervanurunal/Windows-Software-Maintenance-Lab.git)
 
  - <b>Linux Software Maintenance Lab </b>
-  - [Installing, Updating, and Removing Software in Linux](https://github.com/ervanurunal/Linux-Software-Maintenance-Lab.git)
+   - [Installing, Updating, and Removing Software in Linux](https://github.com/ervanurunal/Linux-Software-Maintenance-Lab.git)
 
 ---
 
