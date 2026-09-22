@@ -38,6 +38,8 @@
 
 - <b>[Technical Support Fundamentals](https://coursera.org/share/cce852a3202478347ea40df4f15794b6) </b>
 
+- <b>[The Bits and Bytes of Computer Networking](https://coursera.org/share/74c732c54893a403959b4bd8e89dec6a) </b>
+
 
 ---
 
