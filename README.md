@@ -16,7 +16,7 @@
 
 - <b>Creating, Modifying, and Removing Files and Folders in Windows </b>
 
-  - [Troubleshooting Mobile Issues Lab](https://github.com/ervanurunal/MobileDeviceTroubleshootingLab.git)
+  - [Windows File Explorer — File and Folder Management](https://github.com/ervanurunal/Windows-File-Explorer---File-and-Folder-Management.git)
 
 ### Technical Support Fundamentals Projects:
 
