@@ -12,6 +12,12 @@
 
 <h2>IT Support Specialist Projects:</h2>
 
+### Operating Systems and You: Becoming a Power User Projects:
+
+- <b>Creating, Modifying, and Removing Files and Folders in Windows </b>
+
+  - [Troubleshooting Mobile Issues Lab](https://github.com/ervanurunal/MobileDeviceTroubleshootingLab.git)
+
 ### Technical Support Fundamentals Projects:
 
 - <b>Mobile Device Troubleshooting </b>
@@ -31,6 +37,7 @@
   
 - <b>Linux Software Maintenance Lab </b>
   - [Installing, Updating, and Removing Software in Linux](https://github.com/ervanurunal/Linux-Software-Maintenance-Lab.git)
+
 
 ---
 
