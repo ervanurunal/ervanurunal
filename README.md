@@ -26,6 +26,10 @@
 
   - [Windows File and Folder Permissions with PowerShell](https://github.com/ervanurunal/Windows-File-and-Folder-Permissions-with-PowerShell.git)
  
+- <b>Creating, modifying, and removing file and folder permissions in Linux </b>
+
+  - [Linux File Permissions and Ownership Lab](https://github.com/ervanurunal/Linux-File-Permissions-and-Ownership-Lab.git)
+ 
 
 
 
