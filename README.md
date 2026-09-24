@@ -22,6 +22,10 @@
 
   - [Linux File and Directory Management Lab](https://github.com/ervanurunal/Linux-File-and-Directory-Management-Lab.git)
  
+- <b>Creating, Modifying, and Removing File and Folder Permissions in Windows </b>
+
+  - [Windows File and Folder Permissions with PowerShell](https://github.com/ervanurunal/Windows-File-and-Folder-Permissions-with-PowerShell.git)
+ 
 
 
 
