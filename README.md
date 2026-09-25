@@ -34,6 +34,10 @@
 
   - [Software Packaging and File Archiving on Windows](https://github.com/ervanurunal/Software-Packaging-and-File-Archiving-on-Windows.git)
  
+- <b>Software Packaging and File Archiving on Linux </b>
+
+  - [Installing and Uninstalling Software in Linux](https://github.com/ervanurunal/Installing-and-Uninstalling-Software-in-Linux.git)
+ 
 
 
 
