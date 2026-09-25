@@ -30,6 +30,10 @@
 
   - [Linux File Permissions and Ownership Lab](https://github.com/ervanurunal/Linux-File-Permissions-and-Ownership-Lab.git)
  
+- <b>Software Packaging and File Archiving on Windows </b>
+
+  - [Software Packaging and File Archiving on Windows](https://github.com/ervanurunal/Software-Packaging-and-File-Archiving-on-Windows.git)
+ 
 
 
 
