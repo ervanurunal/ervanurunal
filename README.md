@@ -1,8 +1,8 @@
-<h1>Hello, I'm Ervanur!
+<h2>Hello, I'm Ervanur!
   
 ---
 
-## Certificates:
+### Certificates:
 - <b>[Google Cybersecurity Professional Certificate](https://coursera.org/share/136e9a44097143eebfcdcb9dbe3fccd8) </b>
 
 - <b>[Google IT Support Professional Certificate]() </b>
@@ -10,9 +10,9 @@
 
 ---
 
-<h2>IT Support Specialist Projects:</h2>
+<h3>IT Support Specialist Projects:</h2>
 
-### Operating Systems and You: Becoming a Power User Projects:
+#### Operating Systems and You: Becoming a Power User Projects:
 
 - <b>Creating, Modifying, and Removing Files and Folders in Windows </b>
 
@@ -47,9 +47,9 @@
   - [Linux Disk Partitioning and Formatting](https://github.com/ervanurunal/Linux-Disk-Partitioning-and-Formatting.git)
  
 
+---
 
-
-### Technical Support Fundamentals Projects:
+#### Technical Support Fundamentals Projects:
 
 - <b>Mobile Device Troubleshooting </b>
   - [Troubleshooting Mobile Issues Lab](https://github.com/ervanurunal/MobileDeviceTroubleshootingLab.git)
@@ -72,7 +72,7 @@
 
 ---
 
-<h2>Google IT Support Professional Certificate:</h2>
+<h3>Google IT Support Professional Certificate:</h2>
 
 - <b>[Technical Support Fundamentals](https://coursera.org/share/cce852a3202478347ea40df4f15794b6) </b>
 
@@ -81,7 +81,7 @@
 
 ---
 
-<h2>Google Cybersecurity Professional Certificate:</h2>
+<h3>Google Cybersecurity Professional Certificate:</h2>
 
 
 - <b>[Foundations of Cybersecurity](https://coursera.org/share/729edd2145f7c087918d7896e61e52f4) </b>
