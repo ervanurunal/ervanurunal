@@ -38,6 +38,14 @@
 
   - [Installing and Uninstalling Software in Linux](https://github.com/ervanurunal/Installing-and-Uninstalling-Software-in-Linux.git)
  
+- <b>Partitioning and Formatting a Disk Drive in Windows </b>
+
+  - [Partitioning and Formatting a Disk in Windows](https://github.com/ervanurunal/Partitioning-and-Formatting-a-Disk-in-Windows.git)
+ 
+- <b>Partitioning and Formatting a Disk Drive in Linux </b>
+
+  - [Linux Disk Partitioning and Formatting](https://github.com/ervanurunal/Partitioning-and-Formatting-a-Disk-in-Windows.git)
+ 
 
 
 
