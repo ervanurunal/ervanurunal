@@ -46,13 +46,13 @@
 
   - [Linux Disk Partitioning and Formatting](https://github.com/ervanurunal/Linux-Disk-Partitioning-and-Formatting.git)
  
-- <b>Maintain efficient process utilization on Windows </b>
+- <b>Maintain Efficient Process Utilization on Windows </b>
 
   - [Windows Process Management with PowerShell](https://github.com/ervanurunal/Windows-Process-Management-with-PowerShell.git)
  
 - <b>Maintain Efficient Process Utilization on Linux </b>
 
-  - [Linux Process Management with PowerShell](https://github.com/ervanurunal/Windows-Process-Management-with-PowerShell.git)
+  - [Linux Process Management with ps, grep, and kill](https://github.com/ervanurunal/Linux-Process-Management-with-ps-grep-and-kill.git)
  
 
 ---
