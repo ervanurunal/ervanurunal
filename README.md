@@ -13,75 +13,45 @@
 #### Operating Systems and You: Becoming a Power User Projects:
 
 
-- <b>Using Logs to Help You Track Down an Issue in Windows </b>
+- <b>[Using Logs to Help You Track Down an Issue in Windows](https://github.com/ervanurunal/Windows-Log-Troubleshooting-with-Event-Viewer.git) </b>
 
-  - [Windows Log Troubleshooting with Event Viewer](https://github.com/ervanurunal/Windows-Log-Troubleshooting-with-Event-Viewer.git)
+- <b>[Using Logs to Help You Track Down an Issue in Linux](https://github.com/ervanurunal/Linux-Log-Troubleshooting.git) </b>
+
+- <b>[Maintain Efficient Process Utilization on Windows](https://github.com/ervanurunal/Windows-Process-Management-with-PowerShell.git) </b>
  
-- <b>Using Logs to Help You Track Down an Issue in Linux </b>
-
-  - [Using Logs to Help You Track Down an Issue in Linux](https://github.com/ervanurunal/Linux-Process-Management-with-ps-grep-and-kill.git)
+- <b>[Maintain Efficient Process Utilization on Linux](https://github.com/ervanurunal/Linux-Process-Management-with-ps-grep-and-kill.git) </b>
  
-- <b>Maintain Efficient Process Utilization on Windows </b>
-
-  - [Windows Process Management with PowerShell](https://github.com/ervanurunal/Windows-Process-Management-with-PowerShell.git)
+- <b>[Partitioning and Formatting a Disk Drive in Windows](https://github.com/ervanurunal/Partitioning-and-Formatting-a-Disk-in-Windows.git) </b>
  
-- <b>Maintain Efficient Process Utilization on Linux </b>
-
-  - [Linux Process Management with ps, grep, and kill](https://github.com/ervanurunal/Linux-Process-Management-with-ps-grep-and-kill.git)
+- <b>[Partitioning and Formatting a Disk Drive in Linux](https://github.com/ervanurunal/Linux-Disk-Partitioning-and-Formatting.git) </b>
  
-- <b>Partitioning and Formatting a Disk Drive in Windows </b>
-
-  - [Partitioning and Formatting a Disk in Windows](https://github.com/ervanurunal/Partitioning-and-Formatting-a-Disk-in-Windows.git)
+- <b>[Software Packaging and File Archiving on Windows](https://github.com/ervanurunal/Software-Packaging-and-File-Archiving-on-Windows.git) </b>
  
-- <b>Partitioning and Formatting a Disk Drive in Linux </b>
-
-  - [Linux Disk Partitioning and Formatting](https://github.com/ervanurunal/Linux-Disk-Partitioning-and-Formatting.git)
+- <b>[Software Packaging and File Archiving on Linux](https://github.com/ervanurunal/Installing-and-Uninstalling-Software-in-Linux.git) </b>
  
-- <b>Software Packaging and File Archiving on Windows </b>
-
-  - [Software Packaging and File Archiving on Windows](https://github.com/ervanurunal/Software-Packaging-and-File-Archiving-on-Windows.git)
+- <b>[Creating, Modifying, and Removing File and Folder Permissions in Windows](https://github.com/ervanurunal/Windows-File-and-Folder-Permssions-with-PowerShell.git) </b>
  
-- <b>Software Packaging and File Archiving on Linux </b>
+- <b>[Creating, modifying, and removing file and folder permissions in Linux](https://github.com/ervanurunal/Linux-File-Permissions-and-Ownership-Lab.git) </b>
 
-  - [Installing and Uninstalling Software in Linux](https://github.com/ervanurunal/Installing-and-Uninstalling-Software-in-Linux.git)
+- <b>[Creating, Modifying, and Removing Files and Folders in Windows](https://github.com/ervanurunal/Windows-File-Explorer---File-and-Folder-Management.git) </b>
  
-- <b>Creating, Modifying, and Removing File and Folder Permissions in Windows </b>
-
-  - [Windows File and Folder Permissions with PowerShell](https://github.com/ervanurunal/Windows-File-and-Folder-Permissions-with-PowerShell.git)
- 
-- <b>Creating, modifying, and removing file and folder permissions in Linux </b>
-
-  - [Linux File Permissions and Ownership Lab](https://github.com/ervanurunal/Linux-File-Permissions-and-Ownership-Lab.git)
-
-- <b>Creating, Modifying, and Removing Files and Folders in Windows </b>
-
-  - [Windows File Explorer — File and Folder Management](https://github.com/ervanurunal/Windows-File-Explorer---File-and-Folder-Management.git)
- 
-- <b>Creating, Modifying and Removing Files and Folders in Linux </b>
-
-  - [Linux File and Directory Management Lab](https://github.com/ervanurunal/Linux-File-and-Directory-Management-Lab.git)
+- <b>[Creating, Modifying and Removing Files and Folders in Linux](https://github.com/ervanurunal/Linux-File-and-Directory-Management-Lab.git) </b>
 
 ---
 
 #### Technical Support Fundamentals Projects:
 
-- <b>Mobile Device Troubleshooting </b>
-  - [Troubleshooting Mobile Issues Lab](https://github.com/ervanurunal/MobileDeviceTroubleshootingLab.git)
+- <b>[Mobile Device Troubleshooting](https://github.com/ervanurunal/MobileDeviceTroubleshootingLab.git) </b>
 
-- <b>Assemble a Computer </b>
-  - [Computer Assembly – Virtual Hardware Lab](https://github.com/ervanurunal/Assemble-a-Computer.git)
+- <b>[Assemble a Computer](https://github.com/ervanurunal/Assemble-a-Computer.git) </b>
    
-- <b>Windows Folder Creation Lab </b>
-  - [Creating a Folder with Windows – Virtual Hardware Lab](https://github.com/ervanurunal/Windows-Folder-Creation-Lab.git)
+- <b>[Creating a Folder with Windows – Virtual Hardware Lab](https://github.com/ervanurunal/Windows-Folder-Creation-Lab.git) </b>
   
-- <b>Linux VM & Command-Line Basics Lab </b>
-  - [Creating a Folder with Linux – Virtual Hardware Lab](https://github.com/ervanurunal/Linux-VM-Command-Line-Basics-Lab.git)
+- <b>[Creating a Folder with Linux – Virtual Hardware Lab](https://github.com/ervanurunal/Linux-VM-Command-Line-Basics-Lab.git) </b>
    
-- <b>Windows Software Maintenance Lab </b>
-  - [Installing, Updating, and Removing Software in Windows](https://github.com/ervanurunal/Windows-Software-Maintenance-Lab.git)
+- <b>[Installing, Updating, and Removing Software in Windows](https://github.com/ervanurunal/Windows-Software-Maintenance-Lab.git) </b>
   
-- <b>Linux Software Maintenance Lab </b>
-  - [Installing, Updating, and Removing Software in Linux](https://github.com/ervanurunal/Linux-Software-Maintenance-Lab.git)
+- <b>[Installing, Updating, and Removing Software in Linux](https://github.com/ervanurunal/Linux-Software-Maintenance-Lab.git) </b>
 
 
 ---
@@ -91,6 +61,8 @@
 - <b>[Technical Support Fundamentals](https://coursera.org/share/cce852a3202478347ea40df4f15794b6) </b>
 
 - <b>[The Bits and Bytes of Computer Networking](https://coursera.org/share/74c732c54893a403959b4bd8e89dec6a) </b>
+
+- <b>[Operating Systems and You: Becoming a Power User](https://coursera.org/share/2fa3d49866e3685653840b688bf780bd) </b>
 
 
 ---
