@@ -1,6 +1,4 @@
 <h2>Hello, I'm Ervanur!
-  
----
 
 ### Certificates:
 - <b>[Google Cybersecurity Professional Certificate](https://coursera.org/share/136e9a44097143eebfcdcb9dbe3fccd8) </b>
@@ -14,37 +12,14 @@
 
 #### Operating Systems and You: Becoming a Power User Projects:
 
-- <b>Creating, Modifying, and Removing Files and Folders in Windows </b>
 
-  - [Windows File Explorer — File and Folder Management](https://github.com/ervanurunal/Windows-File-Explorer---File-and-Folder-Management.git)
+- <b>Using Logs to Help You Track Down an Issue in Windows </b>
+
+  - [Windows Log Troubleshooting with Event Viewer](https://github.com/ervanurunal/Windows-Log-Troubleshooting-with-Event-Viewer.git)
  
-- <b>Creating, Modifying and Removing Files and Folders in Linux </b>
+- <b>Using Logs to Help You Track Down an Issue in Linux </b>
 
-  - [Linux File and Directory Management Lab](https://github.com/ervanurunal/Linux-File-and-Directory-Management-Lab.git)
- 
-- <b>Creating, Modifying, and Removing File and Folder Permissions in Windows </b>
-
-  - [Windows File and Folder Permissions with PowerShell](https://github.com/ervanurunal/Windows-File-and-Folder-Permissions-with-PowerShell.git)
- 
-- <b>Creating, modifying, and removing file and folder permissions in Linux </b>
-
-  - [Linux File Permissions and Ownership Lab](https://github.com/ervanurunal/Linux-File-Permissions-and-Ownership-Lab.git)
- 
-- <b>Software Packaging and File Archiving on Windows </b>
-
-  - [Software Packaging and File Archiving on Windows](https://github.com/ervanurunal/Software-Packaging-and-File-Archiving-on-Windows.git)
- 
-- <b>Software Packaging and File Archiving on Linux </b>
-
-  - [Installing and Uninstalling Software in Linux](https://github.com/ervanurunal/Installing-and-Uninstalling-Software-in-Linux.git)
- 
-- <b>Partitioning and Formatting a Disk Drive in Windows </b>
-
-  - [Partitioning and Formatting a Disk in Windows](https://github.com/ervanurunal/Partitioning-and-Formatting-a-Disk-in-Windows.git)
- 
-- <b>Partitioning and Formatting a Disk Drive in Linux </b>
-
-  - [Linux Disk Partitioning and Formatting](https://github.com/ervanurunal/Linux-Disk-Partitioning-and-Formatting.git)
+  - [Using Logs to Help You Track Down an Issue in Linux](https://github.com/ervanurunal/Linux-Process-Management-with-ps-grep-and-kill.git)
  
 - <b>Maintain Efficient Process Utilization on Windows </b>
 
@@ -54,6 +29,37 @@
 
   - [Linux Process Management with ps, grep, and kill](https://github.com/ervanurunal/Linux-Process-Management-with-ps-grep-and-kill.git)
  
+- <b>Partitioning and Formatting a Disk Drive in Windows </b>
+
+  - [Partitioning and Formatting a Disk in Windows](https://github.com/ervanurunal/Partitioning-and-Formatting-a-Disk-in-Windows.git)
+ 
+- <b>Partitioning and Formatting a Disk Drive in Linux </b>
+
+  - [Linux Disk Partitioning and Formatting](https://github.com/ervanurunal/Linux-Disk-Partitioning-and-Formatting.git)
+ 
+- <b>Software Packaging and File Archiving on Windows </b>
+
+  - [Software Packaging and File Archiving on Windows](https://github.com/ervanurunal/Software-Packaging-and-File-Archiving-on-Windows.git)
+ 
+- <b>Software Packaging and File Archiving on Linux </b>
+
+  - [Installing and Uninstalling Software in Linux](https://github.com/ervanurunal/Installing-and-Uninstalling-Software-in-Linux.git)
+ 
+- <b>Creating, Modifying, and Removing File and Folder Permissions in Windows </b>
+
+  - [Windows File and Folder Permissions with PowerShell](https://github.com/ervanurunal/Windows-File-and-Folder-Permissions-with-PowerShell.git)
+ 
+- <b>Creating, modifying, and removing file and folder permissions in Linux </b>
+
+  - [Linux File Permissions and Ownership Lab](https://github.com/ervanurunal/Linux-File-Permissions-and-Ownership-Lab.git)
+
+- <b>Creating, Modifying, and Removing Files and Folders in Windows </b>
+
+  - [Windows File Explorer — File and Folder Management](https://github.com/ervanurunal/Windows-File-Explorer---File-and-Folder-Management.git)
+ 
+- <b>Creating, Modifying and Removing Files and Folders in Linux </b>
+
+  - [Linux File and Directory Management Lab](https://github.com/ervanurunal/Linux-File-and-Directory-Management-Lab.git)
 
 ---
 
