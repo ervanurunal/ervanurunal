@@ -13,6 +13,8 @@
 #### Operating Systems and You: Becoming a Power User Projects:
 
 
+- <b>[Qwiklabs Assessment Managing Services in Windows](https://github.com/ervanurunal/Qwiklabs-Assessment-Managing-Services-in-Windows.git) </b>
+
 - <b>[Qwiklabs Assessment Managing Services in Linux](https://github.com/ervanurunal/Qwiklabs-Assessment-Managing-Services-in-Linux.git) </b>
 
 - <b>[Using Logs to Help You Track Down an Issue in Windows](https://github.com/ervanurunal/Windows-Log-Troubleshooting-with-Event-Viewer.git) </b>
