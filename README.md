@@ -1,11 +1,16 @@
-<h2>Hello, I'm Ervanur!
+## Hello, I'm Ervanur!
 
+<h5> I’m an aspiring SOC Analyst and IT Support Specialist with a strong passion for technology, cybersecurity, and continuous learning.  I have completed the Google IT Support and Google Cybersecurity Professional Certificate programs and continue to strengthen my technical skills through hands-on labs, practical projects, and continuous learning. I use this GitHub portfolio to document my learning journey, showcase my hands-on experience, and apply what I learn to real-world IT and cybersecurity scenarios. I’m continuously expanding my knowledge and working toward starting my career in IT Support and Security Operations.
+ 
+---
+---
+ 
 ### Certificates:
 - <b>[Google Cybersecurity Professional Certificate](https://coursera.org/share/136e9a44097143eebfcdcb9dbe3fccd8) </b>
 
 - <b>[Google IT Support Professional Certificate]() </b>
 
-
+---
 ---
 
 <h3>IT Support Specialist Projects:</h2>
@@ -19,9 +24,6 @@
 ---
 
 #### Operating Systems and You: Becoming a Power User Projects:
-
-
-
 
 - <b>[Using Logs to Help You Track Down an Issue in Windows](https://github.com/ervanurunal/Windows-Log-Troubleshooting-with-Event-Viewer.git) </b>
 
@@ -65,6 +67,7 @@
 
 
 ---
+---
 
 <h3>Google IT Support Professional Certificate:</h2>
 
@@ -75,6 +78,7 @@
 - <b>[Operating Systems and You: Becoming a Power User](https://coursera.org/share/2fa3d49866e3685653840b688bf780bd) </b>
 
 
+---
 ---
 
 <h3>Google Cybersecurity Professional Certificate:</h2>
