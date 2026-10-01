@@ -1,6 +1,6 @@
 ## Hello, I'm Ervanur!
 
-<h5> I’m an aspiring SOC Analyst and IT Support Specialist with a strong passion for technology, cybersecurity, and continuous learning.  I have completed the Google IT Support and Google Cybersecurity Professional Certificate programs and continue to strengthen my technical skills through hands-on labs, practical projects, and continuous learning. I use this GitHub portfolio to document my learning journey, showcase my hands-on experience, and apply what I learn to real-world IT and cybersecurity scenarios. I’m continuously expanding my knowledge and working toward starting my career in IT Support and Security Operations.
+<h4> I’m an aspiring SOC Analyst and IT Support Specialist with a strong passion for technology, cybersecurity, and continuous learning.  I have completed the Google IT Support and Google Cybersecurity Professional Certificate programs and continue to strengthen my technical skills through hands-on labs, practical projects, and continuous learning. I use this GitHub portfolio to document my learning journey, showcase my hands-on experience, and apply what I learn to real-world IT and cybersecurity scenarios. I’m continuously expanding my knowledge and working toward starting my career in IT Support and Security Operations.
  
 ---
 ---
