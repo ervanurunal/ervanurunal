@@ -6,6 +6,7 @@
 ---
  
 ### Certificates:
+
 - <b>[Google Cybersecurity Professional Certificate](https://coursera.org/share/136e9a44097143eebfcdcb9dbe3fccd8) </b>
 
 - <b>[Google IT Support Professional Certificate]() </b>
@@ -17,9 +18,11 @@
 
 #### System Administration and IT Infrastructure Services Projects:
 
-- <b>[Qwiklabs Assessment Managing Services in Windows](https://github.com/ervanurunal/Qwiklabs-Assessment-Managing-Services-in-Windows.git) </b>
+- <b>[Qwiklabs: Get Familiar with DNS and DHCP](https://github.com/ervanurunal/Qwiklab-Get-familiar-with-DNS-and-DHCP.git) </b>
 
-- <b>[Qwiklabs Assessment Managing Services in Linux](https://github.com/ervanurunal/Qwiklabs-Assessment-Managing-Services-in-Linux.git) </b>
+- <b>[Qwiklabs Assessment: Managing Services in Windows](https://github.com/ervanurunal/Qwiklabs-Assessment-Managing-Services-in-Windows.git) </b>
+
+- <b>[Qwiklabs Assessment: Managing Services in Linux](https://github.com/ervanurunal/Qwiklabs-Assessment-Managing-Services-in-Linux.git) </b>
 
 ---
 
