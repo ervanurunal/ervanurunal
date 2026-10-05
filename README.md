@@ -18,6 +18,8 @@
 
 #### System Administration and IT Infrastructure Services Projects:
 
+- <b>[Qwiklabs Assessment: Utilizing Active Directory](https://github.com/ervanurunal/Qwiklabs-Assessment-Utilizing-Active-Directory.git) </b>
+
 - <b>[Qwiklabs Assessment: Manage Websites With Apache2](https://github.com/ervanurunal/Manage-Websites-With-Apache2.git) </b>
 
 - <b>[Qwiklabs Assessment: Get Familiar with DNS and DHCP](https://github.com/ervanurunal/Qwiklab-Get-familiar-with-DNS-and-DHCP.git) </b>
