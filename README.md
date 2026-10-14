@@ -18,7 +18,7 @@
 
 #### IT Security: Defense Against The Digital Dark Arts:
 
-- <b>[Creating/inspecting key pair, encrypting/decrypting and sign/verify using OpenSSL](https://github.com/ervanurunal/Qwiklabs-Assessment-Utilizing-Active-Directory.git) </b>
+- <b>[Creating/inspecting key pair, encrypting/decrypting and sign/verify using OpenSSL](https://github.com/ervanurunal/Creating-inspecting-key-pair-encrypting-decrypting-and-sign-verify-using-OpenSSL.git) </b>
 
 ---
 
