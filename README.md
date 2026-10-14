@@ -16,6 +16,12 @@
 
 <h3>IT Support Specialist Projects:</h2>
 
+#### IT Security: Defense Against The Digital Dark Arts:
+
+- <b>[Creating/inspecting key pair, encrypting/decrypting and sign/verify using OpenSSL](https://github.com/ervanurunal/Qwiklabs-Assessment-Utilizing-Active-Directory.git) </b>
+
+---
+
 #### System Administration and IT Infrastructure Services Projects:
 
 - <b>[Qwiklabs Assessment: Utilizing Active Directory](https://github.com/ervanurunal/Qwiklabs-Assessment-Utilizing-Active-Directory.git) </b>
