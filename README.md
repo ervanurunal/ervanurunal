@@ -96,6 +96,9 @@
 
 - <b>[System Administration and IT Infrastructure Services](https://coursera.org/share/8171b1db9f9ca008ee647c8148948540) </b>
 
+- <b>[IT Security: Defense against the digital dark arts](https://coursera.org/share/392c6883362aea73a31a44e457093433) </b>
+
+
 ---
 ---
 
