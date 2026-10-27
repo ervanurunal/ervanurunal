@@ -9,7 +9,7 @@
 
 - <b>[Google Cybersecurity Professional Certificate](https://coursera.org/share/136e9a44097143eebfcdcb9dbe3fccd8) </b>
 
-- <b>[Google IT Support Professional Certificate]() </b>
+- <b>[Google IT Support Professional Certificate](https://coursera.org/share/577c3a1ac2f2b718fc0e23ca1b44ba83) </b>
 
 ---
 ---
@@ -97,6 +97,9 @@
 - <b>[System Administration and IT Infrastructure Services](https://coursera.org/share/8171b1db9f9ca008ee647c8148948540) </b>
 
 - <b>[IT Security: Defense against the digital dark arts](https://coursera.org/share/392c6883362aea73a31a44e457093433) </b>
+
+- <b>[Accelerate Your Job Search with AI](https://coursera.org/share/45237dbf1536758ac4d2cdccbd752591) </b>
+
 
 
 ---
