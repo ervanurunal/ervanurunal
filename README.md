@@ -11,7 +11,7 @@
 
 <h3>Technical Projects & Portfolio:</h3>
 
-#### IT Support & Hardware Fundamentals:
+#### IT Support, Hardware & Troubleshooting:
 
 - <b>[Mobile Device Troubleshooting](https://github.com/ervanurunal/MobileDeviceTroubleshootingLab.git) </b>
 
