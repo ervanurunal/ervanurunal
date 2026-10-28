@@ -18,7 +18,7 @@
 ---
 ---
 
-<h3>IT Support Specialist Projects:</h2>
+<h3>IT Support Specialist Projects:</h3>
 
 #### IT Security: Defense Against The Digital Dark Arts:
 
