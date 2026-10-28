@@ -1,7 +1,7 @@
 ## Hello, I'm Ervanur!
 
-<h4> I combine a background in psychological counseling and mathematics education with technical training in IT support and cybersecurity. With a published research background in behavioral data analysis and Google Professional Certificates in IT Support and Cybersecurity, I focus on human-centered technical troubleshooting, risk management, and de-escalation.
-
+<h4> II combine a foundation in psychological counseling with technical expertise in cybersecurity and IT support to provide human-centered data protection and risk management. My background in mathematics education enables me to translate complex technical troubleshooting, systems administration, and security auditing into clear, instructional strategies. By applying behavioral analysis and active listening to incident response, I ensure that technical solutions are both ethically grounded and effectively communicated.
+ 
 My hands-on projects span system administration (Windows/Linux), network service management (DNS/DHCP/Apache2), network packet analysis (tcpdump/Wireshark), cryptography (OpenSSL), and Active Directory user management. My goal is to deliver technical support and security solutions that are efficient, secure, and clearly communicated.
  
 ---
