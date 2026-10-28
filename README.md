@@ -1,10 +1,11 @@
 ## Hello, I'm Ervanur!
 
-#### I combine a foundation in psychological counseling with technical expertise in cybersecurity and IT support to provide human-centered data protection and risk management. My background in mathematics education enables me to translate complex technical troubleshooting, systems administration, and security auditing into clear, instructional strategies. By applying behavioral analysis and active listening to incident response, I ensure that technical solutions are both ethically grounded and effectively communicated. </b>
- 
- 
-#### My hands-on projects span system administration (Windows/Linux), network service management (DNS/DHCP/Apache2), network packet analysis (tcpdump/Wireshark), cryptography (OpenSSL), and Active Directory user management. My goal is to deliver technical support and security solutions that are efficient, secure, and clearly communicated.
- 
+#### I combine a background in Guidance and Psychological Counseling and mathematics teacher experience with hands-on training in IT support and cybersecurity. My experience in teaching and research has strengthened my analytical thinking, problem-solving, attention to detail, and ability to explain complex concepts clearly.
+
+#### My technical projects include Windows and Linux system administration fundamentals, network services such as DNS and DHCP, network traffic analysis using tcpdump and Wireshark, cryptographic exercises with OpenSSL, and Active Directory user management. Through these projects, I am developing practical skills in system troubleshooting, networking, security fundamentals, and technical documentation.
+
+#### I am building toward a career in IT Support and cybersecurity, with a particular interest in security monitoring, log analysis, and incident investigation. My goal is to help keep systems reliable and secure while communicating technical information clearly and effectively.
+
 ---
 ---
  
@@ -88,41 +89,3 @@
 
 ---
 ---
-
-<h3>Google IT Support Professional Certificate:</h2>
-
-- <b>[Technical Support Fundamentals](https://coursera.org/share/cce852a3202478347ea40df4f15794b6) </b>
-
-- <b>[The Bits and Bytes of Computer Networking](https://coursera.org/share/74c732c54893a403959b4bd8e89dec6a) </b>
-
-- <b>[Operating Systems and You: Becoming a Power User](https://coursera.org/share/2fa3d49866e3685653840b688bf780bd) </b>
-
-- <b>[System Administration and IT Infrastructure Services](https://coursera.org/share/8171b1db9f9ca008ee647c8148948540) </b>
-
-- <b>[IT Security: Defense against the digital dark arts](https://coursera.org/share/392c6883362aea73a31a44e457093433) </b>
-
-- <b>[Accelerate Your Job Search with AI](https://coursera.org/share/45237dbf1536758ac4d2cdccbd752591) </b>
-
-
-
----
----
-
-<h3>Google Cybersecurity Professional Certificate:</h2>
-
-
-- <b>[Foundations of Cybersecurity](https://coursera.org/share/729edd2145f7c087918d7896e61e52f4) </b>
-
-- <b>[Play It Safe: Manage Security Risks](https://coursera.org/share/4027474be3fb29a0013de252af358895) </b>
-
-- <b>[Connect and Protect: Networks and Network Security](https://coursera.org/share/2b689b35b10ff2e7b65c0745eff37da8) </b>
-
-- <b>[Tools of the Trade: Linux and SQL](https://coursera.org/share/587923d4293b3161cbc5adb0d2cd2336) </b>
-
-- <b>[Assets, Threats, and Vulnerabilities](https://coursera.org/share/5b33e4f7cad2638fc40a55cd791a5f97) </b>
-
-- <b>[Sound the Alarm: Detection and Response](https://coursera.org/share/d749f5147bb005ee3deaefbc9e6c033e) </b>
-
-- <b>[Automate Cybersecurity Tasks with Python](https://coursera.org/share/368bd6c5009dcf5896e67c3c9b6f9ea1) </b>
-
-- <b>[Put It to Work: Prepare for Cybersecurity Jobs](https://coursera.org/share/0eb74d43db34963b0a7880695cc90c86) </b>
