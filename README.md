@@ -41,7 +41,7 @@
 
 ---
 
-#### Cybersecurity & Network Analysis:
+#### IT Security & Network Defense:
 
 - <b>[Introduction to tcpdump](https://github.com/ervanurunal/Introduction-to-tcpdump.git) </b>
 
