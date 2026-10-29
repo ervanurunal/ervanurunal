@@ -45,7 +45,7 @@
 
 - <b>[Introduction to tcpdump](https://github.com/ervanurunal/Introduction-to-tcpdump.git) </b>
 
-- <b>[Creating/inspecting key pair, encrypting/decrypting and sign/verify using OpenSSL](https://github.com/ervanurunal/Creating-inspecting-key-pair-encrypting-decrypting-and-sign-verify-using-OpenSSL.git) </b>
+- <b>[Creating and Inspecting Key Pairs, Encrypting and Decrypting, and Signing and Verifying with OpenSSL](https://github.com/ervanurunal/Creating-inspecting-key-pair-encrypting-decrypting-and-sign-verify-using-OpenSSL.git) </b>
 
 - <b>[Hands-on with Hashing](https://github.com/ervanurunal/Hands-on-with-Hashing.git) </b>
 
